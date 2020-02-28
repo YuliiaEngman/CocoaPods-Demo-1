@@ -2,7 +2,7 @@
 
 Other dependency managers used by Swift developers are Swift package manager and Carthage. CocoaPods is by far the most popular, with Swift package manager's integration into Xcode as of iOS 13 it is greatly being embraced and used by the community of iOS developers. 
 
-Working with CocoaPods dependency manager. In this app we used Alamofire, SnapKit and Kingfisher.
+Working with CocoaPods dependency manager. In this app we used [Alamofire](https://github.com/Alamofire/Alamofire), [SnapKit](https://github.com/SnapKit/SnapKit) and [Kingfisher](https://github.com/onevcat/Kingfisher).
 
 ![app screenshot](Assets/app-screenshot.png)
 
